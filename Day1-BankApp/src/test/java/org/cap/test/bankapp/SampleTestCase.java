@@ -1,7 +1,5 @@
 package org.cap.test.bankapp;
 
-import static org.junit.Assert.*;
-
 import org.junit.Test;
 import org.junit.experimental.categories.Category;
 
